@@ -52,7 +52,7 @@ if(!optionsBuilder.IsConfigured)
 {
 // Essa string de conexão depende da SUA máquina.
 optionsBuilder.UseSqlServer("Server=ANDREY\\SQLEXPRESS;"
-+ "Database=ExoApi;User ID=sa;Password=12345;Trusted_Connection=False;");
++ "Database=ExoApi;User ID=sa;Password=12345;Trusted_Connection=True;");
 // Exemplo 1 de string de conexão:
 // User
 //ID=sa;Password=Abc12345;Server=localhost;Database=ExoApi;-
