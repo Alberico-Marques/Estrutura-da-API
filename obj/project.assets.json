@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SENAI EAD Back End\\Aplicação API\\Atividade - 03\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "D:\\SENAI EAD Back End\\Aplicação API\\Atividade - 05\\Exo.WebApi\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "D:\\SENAI EAD Back End\\Aplicação API\\Atividade - 03\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "D:\\SENAI EAD Back End\\Aplicação API\\Atividade - 05\\Exo.WebApi\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\SENAI EAD Back End\\Aplicação API\\Atividade - 03\\Exo.WebApi\\obj\\",
+      "outputPath": "D:\\SENAI EAD Back End\\Aplicação API\\Atividade - 05\\Exo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
