@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SENAI EAD Back End\\Aplicação API\\Atividade - 05\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "d:\\SENAI EAD Back End\\Aplicação API\\Atividade - 05\\Exo.WebApi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\SENAI EAD Back End\\Aplicação API\\Atividade - 05\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "d:\\SENAI EAD Back End\\Aplicação API\\Atividade - 05\\Exo.WebApi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SENAI EAD Back End\\Aplicação API\\Atividade - 05\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "d:\\SENAI EAD Back End\\Aplicação API\\Atividade - 05\\Exo.WebApi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "D:\\SENAI EAD Back End\\Aplicação API\\Atividade - 05\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "d:\\SENAI EAD Back End\\Aplicação API\\Atividade - 05\\Exo.WebApi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\SENAI EAD Back End\\Aplicação API\\Atividade - 05\\Exo.WebApi\\obj\\",
+        "outputPath": "d:\\SENAI EAD Back End\\Aplicação API\\Atividade - 05\\Exo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
